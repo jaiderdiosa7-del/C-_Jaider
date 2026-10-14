@@ -1,2 +1,14 @@
-# C-_Jaider
-Ejercicios-Proyectos de C#
+C#_Jaider
+
+Ejercicios y proyectos de C# del programa ADSO.
+
+## Comparación de instrucciones en Python, JavaScript y C#
+
+| Quiero…                  |       Python            |      JavaScript           |              C#              |
+|--------------------------|-------------------------|---------------------------|------------------------------|
+| Mostrar y saltar línea   | `print("Hola")`         | `console.log("Hola")`     | `Console.WriteLine("Hola");` |
+| Mostrar sin saltar línea | `print("Hola", end="")` | —                         | `Console.Write("Hola");`     |
+| Leer un dato             | `nombre = input()`      | `prompt()`                | `Console.ReadLine()`         |
+| Unir texto y variables   | `f"Hola {nombre}"`      | Plantilla con `${nombre}` | `$"Hola {nombre}"`           |
+| Variable                 | `edad = 18`             | `let edad = 18`           | `int edad = 18;`             |
+| Comentario               | `# texto`               | `// texto`                | `// texto`                   |
