@@ -12,19 +12,38 @@ namespace Tarea
         {
             Random random = new Random();
             int secreto = random.Next(1, 101);
-            Console.WriteLine(secreto);
+
             int intentos = 0;
-            do
+            bool acertado = false;
+
+            for (int i = 1; i <= 7; i++)
             {
-                Console.WriteLine("digite el numero a encontrar");
-            } while (!);
+                Console.WriteLine("Digite el numero a encontrar:");
+                int numero = Convert.ToInt32(Console.ReadLine());
 
+                intentos = i;
 
-
-  for (int i = 0; intentos < 7; i++)
-            {
-
+                if (numero == secreto)
+                {
+                    Console.WriteLine($"¡Correcto! Adivinaste en {intentos} intentos.");
+                    acertado = true;
+                    break;
+                }
+                else if (numero < secreto)
+                {
+                    Console.WriteLine("El numero secreto es mayor.");
+                }
+                else
+                {
+                    Console.WriteLine("El numero secreto es menor.");
+                }
             }
+
+            if (!acertado)
+            {
+                Console.WriteLine($"Se acabaron los intentos. El numero secreto era {secreto}.");
+            }
+        
         }
     }
 }
