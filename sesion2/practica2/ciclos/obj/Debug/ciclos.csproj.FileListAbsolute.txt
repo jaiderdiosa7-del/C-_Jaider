@@ -1,0 +1,7 @@
+C:\Users\Jaider Diosa\OneDrive\Documents\csharp-adso-jaiderdiosa\sesion2\practica2\ciclos\bin\Debug\ciclos.exe.config
+C:\Users\Jaider Diosa\OneDrive\Documents\csharp-adso-jaiderdiosa\sesion2\practica2\ciclos\bin\Debug\ciclos.exe
+C:\Users\Jaider Diosa\OneDrive\Documents\csharp-adso-jaiderdiosa\sesion2\practica2\ciclos\bin\Debug\ciclos.pdb
+C:\Users\Jaider Diosa\OneDrive\Documents\csharp-adso-jaiderdiosa\sesion2\practica2\ciclos\obj\Debug\ciclos.csproj.AssemblyReference.cache
+C:\Users\Jaider Diosa\OneDrive\Documents\csharp-adso-jaiderdiosa\sesion2\practica2\ciclos\obj\Debug\ciclos.csproj.CoreCompileInputs.cache
+C:\Users\Jaider Diosa\OneDrive\Documents\csharp-adso-jaiderdiosa\sesion2\practica2\ciclos\obj\Debug\ciclos.exe
+C:\Users\Jaider Diosa\OneDrive\Documents\csharp-adso-jaiderdiosa\sesion2\practica2\ciclos\obj\Debug\ciclos.pdb

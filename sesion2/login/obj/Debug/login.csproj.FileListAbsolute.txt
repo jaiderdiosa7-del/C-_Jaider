@@ -1,0 +1,7 @@
+C:\Users\Jaider Diosa\OneDrive\Documents\csharp-adso-jaiderdiosa\sesion2\login\bin\Debug\login.exe.config
+C:\Users\Jaider Diosa\OneDrive\Documents\csharp-adso-jaiderdiosa\sesion2\login\bin\Debug\login.exe
+C:\Users\Jaider Diosa\OneDrive\Documents\csharp-adso-jaiderdiosa\sesion2\login\bin\Debug\login.pdb
+C:\Users\Jaider Diosa\OneDrive\Documents\csharp-adso-jaiderdiosa\sesion2\login\obj\Debug\login.csproj.AssemblyReference.cache
+C:\Users\Jaider Diosa\OneDrive\Documents\csharp-adso-jaiderdiosa\sesion2\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\Jaider Diosa\OneDrive\Documents\csharp-adso-jaiderdiosa\sesion2\login\obj\Debug\login.exe
+C:\Users\Jaider Diosa\OneDrive\Documents\csharp-adso-jaiderdiosa\sesion2\login\obj\Debug\login.pdb
